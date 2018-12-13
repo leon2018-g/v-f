@@ -18,6 +18,7 @@
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
+      
     </div>
   </section>
 </template>
